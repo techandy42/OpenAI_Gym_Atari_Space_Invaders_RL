@@ -4,13 +4,11 @@
 
 - Space Invaders agent trained using DQN/A2C models on OpenAI Gym Atari Environment.
 
-> Demo (DQN)
-
-![Demo DQN GIF](./Space_Invaders_DQN/dqn-rl-video-episode-27.gif)
-
-> Demo (A2C)
+> Demo
 
 ![Demo A2C GIF](./Space_Invaders_A2C/a2c-rl-video-episode-0.gif)
+
+- Best performing variant (trained on A2C algorithm).
 
 > Trained Models
 
